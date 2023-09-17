@@ -1,0 +1,19 @@
+{
+    "name": "mafoyez/phpmvc",
+    "description": "A simple lightweight php mvc framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mafoyez"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    
+    "minimum-stability": "dev",
+    "require": {}
+}
